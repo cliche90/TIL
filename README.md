@@ -35,6 +35,13 @@ TIL
 </details>
 
 <details>
+    <summary>hyper</summary>
+
+- [how to install hyper terminal theme?](./hyper/how-to-install-theme.md)
+
+</details>
+
+<details>
     <summary>markdown</summary>
 
 - [how to make collapsible list?](./markdown/how-to-make-collapsible-list.md)
