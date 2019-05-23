@@ -1,4 +1,4 @@
-# How to filter container by name?
+# How to filter containers by name?
 
 > docker 작업을 하다보면 일괄로 삭제를 하는 등의 일괄 작업이 필요할 때가 있다. 문서에 잘 나와있기는 하지만 귀찮아서 잘 보지 않다보니 해당 내용을 별도로 적어둔다.
 
