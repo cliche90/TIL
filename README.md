@@ -9,3 +9,6 @@
 ## Index
 
 - couchdb
+
+- slack
+- tools
