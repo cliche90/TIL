@@ -8,18 +8,17 @@
 
 ```json
 {
- 	"userList": [{
-            "userId": "user001",
-            "nickname": "A",
-            "age": 19,
-            "hobbies": ["coding", "reading"]
-        },
-        {
-            "userId": "user002",
-            "nickname": "B",
-            "age": 22,
-            "hobbies": ["fishing"]
-        }]
+    "userList": [{
+        "userId": "user001",
+        "nickname": "A",
+        "age": 19,
+        "hobbies": ["coding", "reading"]
+    },{
+        "userId": "user002",
+        "nickname": "B",
+        "age": 22,
+        "hobbies": ["fishing"]
+    }]
 }
 ```
 
@@ -27,16 +26,16 @@
 
 ```json
 {
-	"_id": "users",
-	"selector": {
-		"userList": {
-			"$elemMatch": {
-				"hobbies": {
-				    "$in": ["coding"]
-				}
-        		}
-		}
-	}
+    "_id": "users",
+    "selector": {
+        "userList": {
+            "$elemMatch": {
+                "hobbies": {
+                    "$in": ["coding"]
+                }
+            }
+        }
+    }
 }
 ```
 
