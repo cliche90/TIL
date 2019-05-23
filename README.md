@@ -15,12 +15,17 @@ TIL
 
 <details>
     <summary>couchdb</summary>
-    
-[how to use selector?](./couchDB/how-to-use-selector.md)
+
+- [how to use selector?](./couchDB/how-to-use-selector.md)
+
 </details>
 
-- docker
-  - [how to filter containers by container name?](./docker/how-to-filter-by-container-name.md)
+<details>
+    <summary>docker</summary>
+- [how to filter containers by container name?](./docker/how-to-filter-by-container-name.md
+
+</details>
+
 - git
   - [how to save git credential?](./git/how-to-save-credential.md)
 - slack
