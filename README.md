@@ -1,4 +1,4 @@
-# TIL
+TIL
 
 > Today I Learned.
 
@@ -13,8 +13,12 @@
 
 ## Index
 
-- couchdb
-  - [how to use selector?](./couchDB/how-to-use-selector.md)
+<details><summary>couchdb</summary>
+<p>
+[how to use selector?](./couchDB/how-to-use-selector.md)
+</p>
+</details>
+
 - docker
   - [how to filter containers by container name?](./docker/how-to-filter-by-container-name.md)
 - git
