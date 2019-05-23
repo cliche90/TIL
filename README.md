@@ -16,7 +16,7 @@ TIL
 <details>
     <summary>couchdb</summary>
     
-	[how to use selector?](./couchDB/how-to-use-selector.md)
+[how to use selector?](./couchDB/how-to-use-selector.md)
 </details>
 
 - docker
