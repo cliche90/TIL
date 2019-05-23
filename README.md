@@ -22,17 +22,34 @@ TIL
 
 <details>
     <summary>docker</summary>
-- [how to filter containers by container name?](./docker/how-to-filter-by-container-name.md
+- [how to filter containers by container name?](./docker/how-to-filter-by-container-name.md)
 
 </details>
 
-- git
-  - [how to save git credential?](./git/how-to-save-credential.md)
-- slack
-  - [how to install slack app?](./slack/how-to-install-app.md)
-- tools
-  - [peek](./tools/peek.md)
-  - [scrimba](./tools/scrimba.md)
-- vscode
-  - [how to make vscode extention?](./vscode/how-to-make-extention.md)
+<details>
+    <summary>git</summary>
+- [how to save git credential?](./git/how-to-save-credential.md)
 
+</details>
+
+<details>
+    <summary>slack</summary>
+
+- [how to install slack app?](./slack/how-to-install-app.md)
+
+</details>
+
+<details>
+    <summary>tools</summary>
+
+- [peek](./tools/peek.md)
+- [scrimba](./tools/scrimba.md)
+
+</details>
+
+<details>
+    <summary>vscode</summary>
+
+- [how to make vscode extention?](./vscode/how-to-make-extention.md)
+
+</details>
