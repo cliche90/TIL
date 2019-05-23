@@ -35,6 +35,13 @@ TIL
 </details>
 
 <details>
+    <summary>markdown</summary>
+
+- [how to make collapsible list?](./markdown/how-to-make-collapsible-list.md)
+
+</details>
+
+<details>
     <summary>slack</summary>
 
 - [how to install slack app?](./slack/how-to-install-app.md)
