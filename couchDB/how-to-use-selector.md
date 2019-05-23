@@ -8,7 +8,7 @@
 
 ```json
 {
- 	userList: [
+ 	"userList": [
         {
             "userId": "user001",
             "nickname": "A",
@@ -27,7 +27,7 @@
 
 쿼리를 작성하는 사람은 `hobbies` 중에 `coding` 을 가진 사람만을 조회하고 싶었기 때문에, selector 를 활용하여 아래와 같이 조회할 것이다. (문법에 대한 설명은 별도로)
 
-```
+```json
 {
 	"_id": "users",
 	"selector": {
