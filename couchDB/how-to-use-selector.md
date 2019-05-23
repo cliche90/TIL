@@ -8,8 +8,7 @@
 
 ```json
 {
- 	"userList": [
-        {
+ 	"userList": [{
             "userId": "user001",
             "nickname": "A",
             "age": 19,
@@ -20,8 +19,7 @@
             "nickname": "B",
             "age": 22,
             "hobbies": ["fishing"]
-        }
-	]
+        }]
 }
 ```
 
@@ -33,10 +31,10 @@
 	"selector": {
 		"userList": {
 			"$elemMatch": {
-                "hobbies": {
-                    "$in": ["coding"]
-                }
-        	}
+				"hobbies": {
+				    "$in": ["coding"]
+				}
+        		}
 		}
 	}
 }
