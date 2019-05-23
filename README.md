@@ -13,10 +13,9 @@ TIL
 
 ## Index
 
-<details><summary>couchdb</summary>
-<p>
-[how to use selector?](./couchDB/how-to-use-selector.md)
-</p>
+<details>
+    <summary>couchdb</summary>
+	[how to use selector?](./couchDB/how-to-use-selector.md)
 </details>
 
 - docker
