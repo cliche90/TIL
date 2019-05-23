@@ -14,16 +14,16 @@
 ## Index
 
 - couchdb
-  - [how to use selector?](./docker/how-to-filter-by-container-name.md)
+  - [how to use selector?](./couchDB/how-to-use-selector.md)
 - docker
-  - how to filter containers by container name?
+  - [how to filter containers by container name?](./docker/how-to-filter-by-container-name.md)
 - git
-  - how to save git credential?
+  - [how to save git credential?](./git/how-to-save-credential.md)
 - slack
-  - how to install slack app?
+  - [how to install slack app?](./slack/how-to-install-app.md)
 - tools
-  - peek
-  - scrimba
+  - [peek](./tools/peek.md)
+  - [scrimba](./tools/scrimba.md)
 - vscode
-  - how to make vscode extention?
+  - [how to make vscode extention?](./vscode/how-to-make-extention.md)
 
